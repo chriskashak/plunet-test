@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+<General>
+<CustomerContact>Paul Leiter</CustomerContact>
+<CustomerID_of_Supplier>424</CustomerID_of_Supplier>
+<ProjectName>MyProject</ProjectName>
+<Description>This is my project description.</Description>
+<Deadline>2020-12-30 12:00:00</Deadline>
+<TargetProject>order</TargetProject>
+</General>
+<LanguageCombinations>
+<LanguageCombination source="en-us" target="fr-fr" deadline="2020-12-24 12:00:00">
+<uploadedFile fileName="folder/subfolder1/file1.docx" size="12756"/>
+<uploadedFile fileName="folder/subfolder2/file2.docx" size="12756"/>
+</LanguageCombination>
+<LanguageCombination source="en-us" target="de-de" deadline="2020-12-20 12:00:00">
+<uploadedFile fileName="folder/subfolder1/file1.docx" size="12756"/>
+<uploadedFile fileName="folder/subfolder2/file2.docx" size="12756"/>
+</LanguageCombination>
+</LanguageCombinations>
+</Request>

@@ -6,7 +6,7 @@
 <ProjectName>MyProject</ProjectName>
 <Description>This is my project description.</Description>
 <Deadline>2020-12-30 12:00:00</Deadline>
-<TargetProject>order</TargetProject>
+<TargetProject>quote</TargetProject>
 </General>
 <LanguageCombinations>
 <LanguageCombination source="en-us" target="fr-fr" deadline="2020-12-24 12:00:00">

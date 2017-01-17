@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+r<?xml version="1.0" encoding="UTF-8"?>
 <Request>
 <General>
-<CustomerContact>Paul Leiter</CustomerContact>
-<CustomerID_of_Supplier>424</CustomerID_of_Supplier>
+<CustomerContact>Terry Hogan</CustomerContact>
+<CustomerID_of_Supplier>10794</CustomerID_of_Supplier>
 <ProjectName>MyProject</ProjectName>
 <Description>This is my project description.</Description>
 <Deadline>2020-12-30 12:00:00</Deadline>
